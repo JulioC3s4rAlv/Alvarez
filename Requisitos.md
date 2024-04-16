@@ -21,4 +21,6 @@
    - Se debe guarda el periodo de capacitacion y el motivo de la capacitación.
 
 5. **Control de la asistencia de los trabajadores por sesión:**
-   - 
+   - Se debe registrar la fecha de la sesión y al programa de sesión que pertenece.
+   - Se registra la asistencia de los empleados
+ 
